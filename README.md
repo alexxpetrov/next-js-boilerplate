@@ -1,7 +1,11 @@
 A basic Next.js SSR Boilerplate using Tanstack Query v5 for data fetch/state management ( prefetches & hydration ) and Zustand as a client-side state manager.
-For the sake of curiosity I've implemented a sync between two states utilizing Query Client's `getQueryData`/`setQueryData` and Zustand store actions
+
+For the sake of curiosity I've implemented a sync between two states utilizing Query Client's `getQueryData`/`setQueryData` and Zustand store actions.
+
 Antfu for Eslint config
+
 Tailwind for CSS
+
 React 19 w/ Compiler
 
 ## Getting Started
